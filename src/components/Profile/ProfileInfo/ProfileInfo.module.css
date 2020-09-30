@@ -1,0 +1,42 @@
+.profileData {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fullName {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 0;
+  color: #003f00;
+}
+
+.mainPhoto {
+  max-width: 250px;
+  border-radius: 120px;
+}
+
+.profileDescription {
+  position: relative;
+  padding: 0 50px;
+}
+
+.profileDescription span {
+  color: #003f00;
+  font-weight: bold;
+}
+
+.contact {
+  padding-left: 10px;
+}
+
+.editButton {
+  position: absolute;
+  right: 0px;
+  bottom: 5px;
+  background-image: url('../../../assets/images/edit.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 20px;
+  width: 20px;
+}
