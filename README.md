@@ -1,4 +1,4 @@
-# social-network-app
+# social-network-app [ARCHIVE]
 
 Данное web-приложение было разработано во время прохождения 100 уроков из курса "React JS - Путь самуря".
 
